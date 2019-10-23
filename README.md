@@ -1,5 +1,7 @@
 # Train Scheduler
 
+![alt text](https://github.com/BenjaminShepherd/Train-Scheduler/blob/master/train%20app.png)
+
 Tracks trains frequency, next arrival, & minutes away. Users can add new trains.
 Uses firebase to store train information, & Moment.js to track the trains.
 
